@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.htmlunit:htmlunit:2.62.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.sourceforge.htmlunit" artifactId="htmlunit" version="2.62.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.62.0/6165e62ff5c30e7fe807a6eb2b14ce6952fefce/htmlunit-2.62.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
